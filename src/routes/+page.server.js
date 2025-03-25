@@ -3,7 +3,7 @@ import { error, redirect } from '@sveltejs/kit';
 
 /** 
  * Base de datos simulada en memoria
- * En una aplicación real, esto sería reemplazado por una conexión a una base de datos real
+ * Recordatorio para J Montes Ok :) En una aplicación real, esto sería reemplazado por una conexión a una base de datos real
  */
 let db = {
   routers: [
